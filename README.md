@@ -47,26 +47,6 @@ LangChain, RAG design, recommender systems, getting started with GenAI
 
 ---
 
-### 🛰️ Current mission — [JACKOBIAN](https://github.com/luminarwar/JACKOBIAN)
-
-> Robotics & Embodied AI from the ground up — named after the **Jacobian**, the matrix that links joint motion to end-effector motion.
-
-```text
-progress  ■□□□□□□□□  phase 0 / 8
-
-  0  Setup + Python            ◀ you are here
-  1  Math for robotics
-  2  Kinematics (FK / IK / Jacobians)
-  3  Dynamics & control  ·  MuJoCo
-  4  Electronics  ·  first real robot (ESP32)
-  5  Perception  ·  Kalman filters  ·  SLAM
-  6  Linux + ROS 2
-  7  Robot learning  ·  RL  ·  imitation  ·  VLAs
-  8  Specialization  ·  humanoids / drones
-```
-
----
-
 ### 🧪 Featured GenAI work
 
 <table>
