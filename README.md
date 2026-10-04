@@ -1,120 +1,142 @@
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,50:3b2f8f,100:6C63FF&text=Anurag%20Kumar&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Machine%20Learning%20%26%20Generative%20AI&descAlignY=58&descSize=18" width="100%" alt="Anurag Kumar — Machine Learning & Generative AI" />
+<!-- ───────────── Header (switches with GitHub light/dark theme) ───────────── -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:0d1117,60:2a2470,100:6C63FF&text=Anurag%20Kumar&fontColor=ffffff&fontSize=48&fontAlignY=42&desc=GenAI%20%E2%86%92%20Embodied%20AI&descAlignY=68&descSize=17" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:f6f8fa,60:c9c5ff,100:6C63FF&text=Anurag%20Kumar&fontColor=1a1b27&fontSize=48&fontAlignY=42&desc=GenAI%20%E2%86%92%20Embodied%20AI&descAlignY=68&descSize=17" width="100%" alt="Anurag Kumar — GenAI → Embodied AI" />
+</picture>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A5A0FF&center=true&vCenter=true&width=600&lines=Building+LLM-powered+agents;RAG+pipelines+%2B+OCR+for+real+documents;Multi-agent+research+systems;Exploring+Generative+AI%2C+one+project+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=6C63FF&center=true&vCenter=true&width=620&lines=I+build+LLM+agents+that+actually+do+things.;Now+teaching+myself+robotics%2C+one+Jacobian+at+a+time.;RAG+%C2%B7+multi-agent+systems+%C2%B7+robot+learning" alt="Typing intro" />
 
-<br/>
-
-<a href="https://www.linkedin.com/in/anurag-kumar-3916a9209/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/luminarwar"><img src="https://img.shields.io/github/followers/luminarwar?style=for-the-badge&logo=github&label=Followers&color=6C63FF&labelColor=1a1b27" alt="GitHub followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=luminarwar&style=for-the-badge&color=6C63FF&label=Profile+views" alt="Profile views" />
+<a href="https://www.linkedin.com/in/anurag-kumar-3916a9209/"><img src="https://img.shields.io/badge/LinkedIn-Anurag_Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/luminarwar?tab=followers"><img src="https://img.shields.io/github/followers/luminarwar?style=flat-square&logo=github&label=Follow&color=6C63FF" alt="Follow on GitHub" /></a>
+<a href="https://github.com/luminarwar/JACKOBIAN"><img src="https://img.shields.io/badge/Currently-Learning_Robotics-6C63FF?style=flat-square&logo=ros&logoColor=white" alt="Currently learning robotics" /></a>
 
 </div>
 
-<br/>
+---
 
-## About me
+### 👋 Hi, I'm Anurag
 
-I work on the practical side of **Generative AI** — agents, retrieval pipelines, and applied ML systems that actually *do* something: answer questions over documents, query databases in plain English, or recommend a movie you'll genuinely like.
+I build applied **Generative AI** systems — agents that query databases in plain English, RAG pipelines that can read scanned documents, and teams of LLM agents that research a topic together.
 
-```python
-anurag = {
-    "building":   ["agentic apps", "RAG pipelines", "OCR-based document search"],
-    "learning":   ["advanced RAG architectures", "multi-agent orchestration", "LLM tooling"],
-    "ask_me_about": ["LangChain", "RAG", "recommender systems"],
-    "reach_me":   "linkedin.com/in/anurag-kumar-3916a9209",
-}
-```
-
-## Tech stack
-
-<div align="center">
-
-**Languages & data**<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-
-**LLMs & GenAI**<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-
-**Apps & tools**<br/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-
-</div>
-
-## Featured projects
+Lately I've been pulling those agents off the screen and into the physical world: I'm working through a long-term, self-directed course in **robotics and embodied AI** — kinematics, control, perception, ROS 2, and robot learning.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🤖 [GEN-AI-Projects](https://github.com/luminarwar/GEN-AI-Projects)
-A growing collection of hands-on GenAI builds: a Q&A bot, a Google-powered agent, a Groq-accelerated chatbot, a natural-language SQL agent, and a RAG agent.
-
-`Python` `LangChain` `Groq` `SQL`
+**🔨 Building**<br/>
+Agentic apps, RAG + OCR document search, multi-agent research tools
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 📄 [DocMe — RAG Agent with OCR](https://github.com/luminarwar/DocMe---RAG-agent-with-ocr)
-A document-intelligence agent that combines OCR with retrieval-augmented generation, so you can query scanned or image-based documents in natural language.
-
-`Python` `RAG` `OCR`
+**📚 Learning**<br/>
+Robotics math, kinematics & Jacobians, control, ROS 2, RL & imitation learning
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🔬 [RSRCH — Multi-Agent Research Assistant](https://github.com/luminarwar/RSRCH---Multi-Agent-Research-Assistant)
-Specialized agents collaborate to research a topic and compile the findings — an early step into agentic orchestration.
-
-`Python` `Multi-Agent` `LLM Orchestration`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 [Movie Recommender System](https://github.com/luminarwar/Movie-Recommender-System)
-A content-based recommendation engine that suggests similar titles using metadata and similarity scoring.
-
-`Python` `Machine Learning` `Recommender Systems`
+**💬 Ask me about**<br/>
+LangChain, RAG design, recommender systems, getting started with GenAI
 
 </td>
 </tr>
 </table>
 
-## GitHub stats
+---
 
-<!-- These cards are generated inside this repo by .github/workflows/profile-summary-cards.yml -->
+### 🛰️ Current mission — [JACKOBIAN](https://github.com/luminarwar/JACKOBIAN)
+
+> Robotics & Embodied AI from the ground up — named after the **Jacobian**, the matrix that links joint motion to end-effector motion.
+
+```text
+progress  ■□□□□□□□□  phase 0 / 8
+
+  0  Setup + Python            ◀ you are here
+  1  Math for robotics
+  2  Kinematics (FK / IK / Jacobians)
+  3  Dynamics & control  ·  MuJoCo
+  4  Electronics  ·  first real robot (ESP32)
+  5  Perception  ·  Kalman filters  ·  SLAM
+  6  Linux + ROS 2
+  7  Robot learning  ·  RL  ·  imitation  ·  VLAs
+  8  Specialization  ·  humanoids / drones
+```
+
+---
+
+### 🧪 Featured GenAI work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📄 [DocMe](https://github.com/luminarwar/DocMe---RAG-agent-with-ocr)
+**RAG agent with OCR.** Ask questions of scanned and image-based documents in plain language — OCR extracts the text, retrieval grounds the answers.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-6C63FF?style=flat-square) ![OCR](https://img.shields.io/badge/-OCR-555?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔬 [RSRCH](https://github.com/luminarwar/RSRCH---Multi-Agent-Research-Assistant)
+**Multi-agent research assistant.** Specialized agents split up a research question, gather findings, and compile them into one report.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Multi-Agent](https://img.shields.io/badge/-Multi--Agent-6C63FF?style=flat-square) ![LLM](https://img.shields.io/badge/-Orchestration-555?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 [GEN-AI-Projects](https://github.com/luminarwar/GEN-AI-Projects)
+**A lab notebook of GenAI builds** — Q&A bot, Google-powered agent, Groq chatbot, natural-language SQL agent, and a RAG agent.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎬 [Movie Recommender](https://github.com/luminarwar/Movie-Recommender-System)
+**Content-based recommendation engine** that suggests similar titles from movie metadata and similarity scoring.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![RecSys](https://img.shields.io/badge/-RecSys-555?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧰 Toolbox
+
+| | |
+|---|---|
+| **Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **LLMs & GenAI** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| **Apps & workflow** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white) |
+| **Learning next** | ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white) ![MuJoCo](https://img.shields.io/badge/MuJoCo-0B5FFF?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Arduino / ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) |
+
+---
+
+### 📈 Activity
+
+<!-- Generated in this repo by .github/workflows/profile-summary-cards.yml -->
 <div align="center">
 
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Contribution overview" />
 
-<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="Stats" />
-<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most commit language" />
-
-<img src="https://streak-stats.demolab.com/?user=luminarwar&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=A5A0FF&currStreakLabel=A5A0FF" width="98%" alt="GitHub streak" />
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most-committed languages" />
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-*Thanks for stopping by — explore the repos or say hi on [LinkedIn](https://www.linkedin.com/in/anurag-kumar-3916a9209/).*
+<sub>Building agents today, robots tomorrow. Thanks for stopping by — say hi on <a href="https://www.linkedin.com/in/anurag-kumar-3916a9209/">LinkedIn</a>.</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:6C63FF,50:3b2f8f,100:1a1b27" width="100%" />
